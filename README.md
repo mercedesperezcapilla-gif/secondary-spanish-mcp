@@ -59,6 +59,36 @@ If you prefer to edit config directly, add this to `~/.claude/settings.json`:
 
 ---
 
+## How to call it
+
+Once wired up, just ask Claude naturally. Example:
+
+> Give me 5 words for environment for AQA GCSE higher tier
+
+You should see the tool called and a response like this:
+
+```
+Called gcse-spanish-master (ctrl+o to expand)
+
+┌───────────────────┬─────────────────┬─────────────────────────────────────────────────┐
+│      Spanish      │     English     │                     Example                     │
+├───────────────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ el medio ambiente │ the environment │ Tenemos que proteger el medio ambiente.          │
+├───────────────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ reciclar          │ to recycle      │ Reciclo el plástico y el papel en casa.          │
+├───────────────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ la basura         │ rubbish / waste │ Hay mucha basura en las calles.                  │
+├───────────────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ la contaminación  │ pollution       │ La contaminación del aire es un problema grave.  │
+├───────────────────┼─────────────────┼─────────────────────────────────────────────────┤
+│ proteger          │ to protect      │ Debemos proteger los animales en peligro.        │
+└───────────────────┴─────────────────┴─────────────────────────────────────────────────┘
+```
+
+The `Called gcse-spanish-master` line confirms the MCP tool fired. If you don't see it, the server isn't connected — check setup.
+
+---
+
 ## Stress test (tool description quality check)
 
 The quality of the tool description determines whether Claude picks the right tool. Test it by asking the same need 5 different ways:

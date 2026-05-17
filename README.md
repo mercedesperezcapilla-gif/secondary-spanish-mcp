@@ -119,18 +119,9 @@ secondary-spanish-mcp/
 
 ---
 
-## Roadmap
+## Coming next
 
-| Week | Add | CCA domain practised |
-|------|-----|----------------------|
-| 1 | `get_vocabulary` (this) | Tool Design (18%) |
-| 2 | Parse full vocabulary + `get_grammar_topic` | Tool Design |
-| 3–4 | No new tools — Agentic Architecture study | Agentic (27%) |
-| 5 | Gap analyser (separate Claude Code project) | Claude Code Config (20%) |
-| 6 | Skills, slash commands, CLAUDE.md hierarchy | Claude Code Config |
-| 7 | Zod refinements + structured output patterns | Prompt Engineering (20%) |
-| 8 | `get_examiner_tip`, `get_pronunciation_focus`, MCP resources | Tool Design polish |
-| 9 | RAG study — separate exercise | Context Management (15%) |
+`get_grammar_topic` tool — if there's interest.
 
 ---
 

@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.js.map
+~$*
+stderr_test.txt
+MCP-NOTES.md
+Week_1_Quickstart.docx

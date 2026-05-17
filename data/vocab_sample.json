@@ -1,0 +1,141 @@
+[
+  {
+    "word_id": "env_f001",
+    "spanish": "el medio ambiente",
+    "english": "the environment",
+    "word_type": "noun",
+    "gender": "m",
+    "theme": "the_environment",
+    "subtopic": "environmental_concepts",
+    "tier": "foundation",
+    "example_sentence_es": "Tenemos que proteger el medio ambiente.",
+    "example_sentence_en": "We have to protect the environment."
+  },
+  {
+    "word_id": "env_f002",
+    "spanish": "reciclar",
+    "english": "to recycle",
+    "word_type": "verb",
+    "theme": "the_environment",
+    "subtopic": "actions",
+    "tier": "foundation",
+    "example_sentence_es": "Reciclo el plástico y el papel en casa.",
+    "example_sentence_en": "I recycle plastic and paper at home."
+  },
+  {
+    "word_id": "env_f003",
+    "spanish": "la basura",
+    "english": "rubbish, waste",
+    "word_type": "noun",
+    "gender": "f",
+    "theme": "the_environment",
+    "subtopic": "pollution",
+    "tier": "foundation",
+    "example_sentence_es": "Hay mucha basura en las calles.",
+    "example_sentence_en": "There is a lot of rubbish in the streets."
+  },
+  {
+    "word_id": "env_f004",
+    "spanish": "la contaminación",
+    "english": "pollution",
+    "word_type": "noun",
+    "gender": "f",
+    "theme": "the_environment",
+    "subtopic": "pollution",
+    "tier": "foundation",
+    "example_sentence_es": "La contaminación del aire es un problema grave.",
+    "example_sentence_en": "Air pollution is a serious problem."
+  },
+  {
+    "word_id": "env_f005",
+    "spanish": "proteger",
+    "english": "to protect",
+    "word_type": "verb",
+    "theme": "the_environment",
+    "subtopic": "actions",
+    "tier": "foundation",
+    "example_sentence_es": "Debemos proteger los animales en peligro.",
+    "example_sentence_en": "We must protect endangered animals."
+  },
+  {
+    "word_id": "env_f006",
+    "spanish": "el cambio climático",
+    "english": "climate change",
+    "word_type": "noun",
+    "gender": "m",
+    "theme": "the_environment",
+    "subtopic": "environmental_concepts",
+    "tier": "foundation",
+    "example_sentence_es": "El cambio climático afecta a todo el planeta.",
+    "example_sentence_en": "Climate change affects the whole planet."
+  },
+  {
+    "word_id": "env_f007",
+    "spanish": "ahorrar",
+    "english": "to save",
+    "word_type": "verb",
+    "theme": "the_environment",
+    "subtopic": "actions",
+    "tier": "foundation",
+    "example_sentence_es": "Hay que ahorrar agua y energía.",
+    "example_sentence_en": "We must save water and energy."
+  },
+  {
+    "word_id": "env_h001",
+    "spanish": "sostenible",
+    "english": "sustainable",
+    "word_type": "adjective",
+    "theme": "the_environment",
+    "subtopic": "environmental_concepts",
+    "tier": "higher",
+    "example_sentence_es": "Necesitamos un estilo de vida más sostenible.",
+    "example_sentence_en": "We need a more sustainable way of life."
+  },
+  {
+    "word_id": "env_h002",
+    "spanish": "el calentamiento global",
+    "english": "global warming",
+    "word_type": "noun",
+    "gender": "m",
+    "theme": "the_environment",
+    "subtopic": "environmental_concepts",
+    "tier": "higher",
+    "example_sentence_es": "El calentamiento global causa el deshielo de los polos.",
+    "example_sentence_en": "Global warming causes the polar ice caps to melt."
+  },
+  {
+    "word_id": "env_h003",
+    "spanish": "los gases de efecto invernadero",
+    "english": "greenhouse gases",
+    "word_type": "noun",
+    "gender": "m",
+    "theme": "the_environment",
+    "subtopic": "pollution",
+    "tier": "higher",
+    "example_sentence_es": "Los gases de efecto invernadero contribuyen al cambio climático.",
+    "example_sentence_en": "Greenhouse gases contribute to climate change."
+  },
+  {
+    "word_id": "env_h004",
+    "spanish": "las energías renovables",
+    "english": "renewable energy",
+    "word_type": "noun",
+    "gender": "f",
+    "theme": "the_environment",
+    "subtopic": "solutions",
+    "tier": "higher",
+    "example_sentence_es": "Las energías renovables son el futuro del planeta.",
+    "example_sentence_en": "Renewable energy is the future of the planet."
+  },
+  {
+    "word_id": "env_h005",
+    "spanish": "concienciar",
+    "english": "to raise awareness",
+    "word_type": "verb",
+    "theme": "the_environment",
+    "subtopic": "actions",
+    "tier": "higher",
+    "example_sentence_es": "Es importante concienciar a los jóvenes sobre el medio ambiente.",
+    "example_sentence_en": "It is important to raise young people's awareness about the environment."
+  }
+]

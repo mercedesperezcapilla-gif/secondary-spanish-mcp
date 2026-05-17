@@ -10,7 +10,7 @@ An MCP server exposing secondary school Spanish curriculum data as tools callabl
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/secondary-spanish-mcp.git
+git clone https://github.com/mercedesperezcapilla-gif/secondary-spanish-mcp.git
 cd secondary-spanish-mcp
 
 # 2. Install dependencies
@@ -31,7 +31,7 @@ npm start
 The fastest way — use the CLI command (no JSON editing needed):
 
 ```bash
-claude mcp add secondary-spanish /absolute/path/to/secondary-spanish-mcp/dist/index.js
+claude mcp add secondary-spanish node /absolute/path/to/secondary-spanish-mcp/dist/index.js
 ```
 
 Use `pwd` inside the repo to get the absolute path, then substitute it in.
@@ -68,7 +68,7 @@ Once wired up, just ask Claude naturally. Example:
 You should see the tool called and a response like this:
 
 ```
-Called gcse-spanish-master (ctrl+o to expand)
+Called secondary-spanish (ctrl+o to expand)
 
 ┌───────────────────┬─────────────────┬─────────────────────────────────────────────────┐
 │      Spanish      │     English     │                     Example                     │

@@ -85,7 +85,7 @@ Called secondary-spanish (ctrl+o to expand)
 └───────────────────┴─────────────────┴─────────────────────────────────────────────────┘
 ```
 
-The `Called gcse-spanish-master` line confirms the MCP tool fired. If you don't see it, the server isn't connected — check setup.
+The `Called secondary-spanish` line confirms the MCP tool fired. If you don't see it, the server isn't connected — check setup.
 
 ---
 

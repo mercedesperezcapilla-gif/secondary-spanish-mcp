@@ -2,7 +2,7 @@
 
 An MCP server exposing secondary school Spanish curriculum data as tools callable from Claude Code, Claude Desktop, or any MCP client.
 
-**Status:** Week 1 build — `get_vocabulary` tool against a hand-curated 12-word environment sample. Full vocabulary parse comes Week 2.
+**Status:** Active build. Current tool: `get_vocabulary` — returns curriculum-aligned Spanish vocabulary by topic and tier (Foundation / Higher).
 
 ---
 
@@ -112,8 +112,8 @@ secondary-spanish-mcp/
 ├── src/
 │   └── index.ts          # Server + get_vocabulary tool
 ├── data/
-│   ├── vocab_sample.json # 12 hand-curated environment words (Week 1)
-│   └── PARSER_SPEC.md    # Contract the Week 2 parser must produce
+│   ├── vocab_sample.json # Curriculum-aligned vocabulary by topic
+│   └── PARSER_SPEC.md    # Vocabulary data contract
 └── dist/                 # Compiled output (gitignored)
 ```
 
@@ -121,7 +121,7 @@ secondary-spanish-mcp/
 
 ## Coming next
 
-`get_grammar_topic` tool — if there's interest.
+`get_grammar_topic` tool — grammar topics linked to the AQA/Edexcel GCSE specification.
 
 ---
 
